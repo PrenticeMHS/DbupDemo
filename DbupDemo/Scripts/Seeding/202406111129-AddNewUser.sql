@@ -2,4 +2,4 @@
 
 INSERT INTO [dbo].[User] ([Id], [Name], [Email], [CreatedDate], [DeleteDate])
 VALUES
-    (NEWID(), 'Test User 3', 'testuser3@example.com', GETDATE(), NULL)
+    (NEWID(), 'Test User 3', 'testuser3@example.com', GETDATE(), NULL);
