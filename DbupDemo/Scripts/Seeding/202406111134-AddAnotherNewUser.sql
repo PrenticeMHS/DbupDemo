@@ -1,4 +1,4 @@
--- Adds a new user to the database
+-- Adds another new user to the database
 
 INSERT INTO [dbo].[User] ([Id], [Name], [Email], [CreatedDate], [DeleteDate])
 VALUES
